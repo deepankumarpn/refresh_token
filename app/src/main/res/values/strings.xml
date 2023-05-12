@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RefreshtokenApp</string>
+    <string name="login">Log in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="refresh_info_msg">During the API call, if the token expires, the refresh token function will be automatically triggered by the interceptor's conditions.</string>
+</resources>
